@@ -1,0 +1,27 @@
+.do-you{
+color: blueviolet;
+padding: 5%; 
+background-color: #ffffff; 
+border-top-left-radius: 10cm;
+border-top-right-radius: 2cm; 
+border-bottom-right-radius: 15cm;
+border: dotted; 
+border-color: black; 
+border-left-color: brown;
+border-block-end-color: teal ; 
+border-block-start-color: purple;
+margin-top: 20pt; margin-bottom: 3rem;
+}
+
+.flex-flex{
+    display: flex;
+    flex-direction: row;
+}
+.sedans{ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 1.4rem; 
+    text-align: center;
+    background-color: chocolate;
+    padding: 20pt;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
